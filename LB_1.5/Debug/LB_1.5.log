@@ -1,0 +1,11 @@
+﻿  Pair.cpp
+D:\Project\OOP\LB1\LB_1.5\Pair.cpp(17,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB1\LB_1.5\Pair.cpp(17,9): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB1\LB_1.5\Pair.cpp(21,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB1\LB_1.5\Pair.cpp(21,9): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB1\LB_1.5\Pair.cpp(37,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB1\LB_1.5\Pair.cpp(37,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB1\LB_1.5\Pair.cpp(48,46): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB1\LB_1.5\Pair.cpp(50,61): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB1\LB_1.5\Pair.cpp(52,61): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  LB_1.5.vcxproj -> D:\Project\OOP\LB1\LB_1.5\Debug\LB_1.5.exe

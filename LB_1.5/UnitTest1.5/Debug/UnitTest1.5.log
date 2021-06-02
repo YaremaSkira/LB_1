@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  UnitTest1.5.cpp
+D:\Project\OOP\LB1\LB_1.5\Pair.cpp(17,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB1\LB_1.5\Pair.cpp(17,9): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB1\LB_1.5\Pair.cpp(21,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB1\LB_1.5\Pair.cpp(21,9): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB1\LB_1.5\Pair.cpp(36,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB1\LB_1.5\Pair.cpp(36,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB1\LB_1.5\Pair.cpp(47,46): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB1\LB_1.5\Pair.cpp(49,61): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB1\LB_1.5\Pair.cpp(51,61): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+     Creating library D:\Project\OOP\LB1\LB_1.5\Debug\UnitTest1.5.lib and object D:\Project\OOP\LB1\LB_1.5\Debug\UnitTest1.5.exp
+  UnitTest1.5.vcxproj -> D:\Project\OOP\LB1\LB_1.5\Debug\UnitTest1.5.dll
